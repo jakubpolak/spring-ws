@@ -4,4 +4,5 @@
 /target/
 /src/main/java/io/
 .DS_Store
+rebel.xml
 
