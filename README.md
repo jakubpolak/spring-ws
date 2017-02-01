@@ -1,7 +1,7 @@
 ## Run
 
 1. Start Spring Boot Application
-2. Test web service from command line:
+2. Test web service from command line (from resources folder):
 
 ```
 curl --header "content-type: text/xml" -d @request.xml http://localhost:8080/ws
